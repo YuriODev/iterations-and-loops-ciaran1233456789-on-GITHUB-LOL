@@ -1,4 +1,4 @@
-# Exercise 8
+# Your solution to Exercise 8
 n = int(input("Enter a number: "))
 output = ""
 
