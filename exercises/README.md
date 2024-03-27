@@ -237,7 +237,7 @@ The problem tests the ability to work with digits of a number and compare their 
 The problem tests the ability to use loops and conditional statements to print a table of values.
 
 
-## Exercise 11: Sum of a Series - Easy 😊 (Est. Time: 5 mins | Points: 10)
+## Exercise 11: Sum of a Series - OHIO 😊 (Est. Time: 5 mins | Points: 10)
 
 **Problem:** Write a program to calculate the sum of the expression `1/2 + 2/3 + 3/4 + …​ + n/(n + 1)` for a given value of `n`.
 
